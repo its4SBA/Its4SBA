@@ -14,7 +14,7 @@ const ITS4SBA = {
   }
 };
 
-console.log(3waija)
+console.log(ITS4SBA)
 ```
 
 <br>
