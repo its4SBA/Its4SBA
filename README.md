@@ -13,7 +13,7 @@
 ## About Me
 
 - I'm a software engineer who loves building clean and user-friendly websites
-- I bring designs to life — turning Figma designs into real, functional code
+- I bring designs to life turning Figma designs into real, functional code
 - Currently learning AI and exploring its applications in real-world projects
 - I believe in continuous growth and lifelong learning
 - Always improving my craft, one commit at a time
