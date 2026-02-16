@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Salma (@Its4SBA)
+# Hi, I'm Salma
 
 **Software Engineer | Web Developer | UI/UX Design with Figma**
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 🚧 **Coming Soon...**
 
@@ -58,11 +58,11 @@ I'm currently working on:
 - Landing Page (Figma to Code)
 - Dashboard UI
 
-Stay tuned for updates! 🚀
+Stay tuned for updates! 
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmaalaleeli/)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@its4sba)
