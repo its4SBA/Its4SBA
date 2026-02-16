@@ -64,7 +64,7 @@ Stay tuned for updates!
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmaalaleeli/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/672763596090114058)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@its4sba)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its4sba)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:S.alaleeli.sa@gmail.com)
