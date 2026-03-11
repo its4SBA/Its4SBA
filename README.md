@@ -49,19 +49,6 @@
 
 ---
 
-## Featured Projects
-
-🚧 **Coming Soon...**
-
-I'm currently working on:
-- Personal Portfolio Website
-- Landing Page (Figma to Code)
-- Dashboard UI
-
-Stay tuned for updates! 
-
----
-
 ## Let's Connect
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/672763596090114058)
