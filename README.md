@@ -1,10 +1,23 @@
 <div align="center">
-  
-# Hi, I'm Salma
 
-**Software Engineer | Web Developer | UI/UX Design with Figma**
+# Hi, I'm Salma Alaleeli 👋
 
-📍 Based in Dubai, UAE 🇦🇪
+### Software Engineer | Front-End Developer
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Front--End_Development-111111?style=for-the-badge" />
+</p>
+
+<p>
+  Based in Dubai, United Arab Emirates
+</p>
+
+<p>
+  Building clean, responsive, and user-focused web interfaces
+</p>
 
 </div>
 
@@ -12,55 +25,119 @@
 
 ## About Me
 
-- I'm a software engineer who loves building clean and user-friendly websites
-- I bring designs to life turning Figma designs into real, functional code
-- Currently learning AI and exploring its applications in real-world projects
-- I believe in continuous growth and lifelong learning
-- Always improving my craft, one commit at a time
+I am a Software Engineer with hands-on experience in front-end development and modern web technologies.  
+I specialize in building responsive, user-friendly web applications using **React.js, Next.js, JavaScript, HTML, and CSS**.
+
+In my current role at **Intertec Systems**, I work on transforming UI/UX designs into functional interfaces, integrating APIs, and contributing to scalable web solutions that support real business needs.
+
+I enjoy writing clean, maintainable code and creating seamless digital experiences that balance usability, performance, and design accuracy.
+
+---
+
+## Experience
+
+### Software Engineer  
+
+- Develop and maintain front-end interfaces for web applications
+- Build responsive and functional UI using modern web technologies
+- Transform UI/UX designs into clean and maintainable code
+- Integrate front-end applications with APIs
+- Contribute to scalable solutions aligned with business requirements
+
+### Associate Software Engineering  
+
+- Supported front-end feature development and implementation
+- Worked with React.js and JavaScript to enhance web application functionality
+- Assisted with API integration and responsive UI improvements
+- Collaborated on improving code quality and usability
+
+### Training Associate Software Engineer  
+
+- Built foundational knowledge in software engineering and front-end development
+- Participated in implementation tasks and technical learning activities
+- Gained hands-on exposure to development workflows and team collaboration
 
 ---
 
 ## Tech Stack
 
-### Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css" />
+</p>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=flat&logo=shadcnui&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)
+### Backend / APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/API_Integration-111111?style=for-the-badge" />
+</p>
 
 ### Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion" />
+</p>
 
 ---
 
-## Let's Connect
+## Current Focus
 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/672763596090114058)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its4sba)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:S.alaleeli.sa@gmail.com)
+- Building clean and maintainable front-end applications
+- Improving responsiveness and UI quality
+- Strengthening API integration skills
+- Growing as a software engineer through continuous learning
+
+---
+
+## Core Skills
+
+- Front-End Development
+- React.js
+- Next.js
+- JavaScript
+- HTML5
+- CSS3
+- Web Development
+- API Integration
+- User Interface Design
+- Responsive Web Design
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=its4SBA&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its4SBA&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/salmaalaleeli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  
-*"Code is poetry written in logic."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=its4SBA&color=blueviolet&style=flat)
+_"Always learning, always building."_
 
 </div>
